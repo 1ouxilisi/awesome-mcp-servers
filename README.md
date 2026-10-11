@@ -360,6 +360,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
 
 <br />
+- 🔧 [ev-diagnosis-mcp](https://github.com/1ouxilisi/ev-diagnosis-mcp) - 新能源汽车维修诊断（中文）：故障码查询、结构化诊断结论、车型通病与维修经验检索。896 条标准 DTC + 190 条实战经验，零依赖、纯本地数据、不联网。
 
 ## 🤝 <a name="ai-services"></a>AI Services
 
